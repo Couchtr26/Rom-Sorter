@@ -66,3 +66,5 @@ Compressed Archives (.zip, .7z)
 This project is intended for legal ROM backups only.
 
 No ROM files are included.
+
+Copyright (c) 2025 Couchtr26
